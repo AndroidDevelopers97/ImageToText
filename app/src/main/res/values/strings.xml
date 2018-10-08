@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImageToText</string>
+    <string name="process_image">Processing Image</string>
+    <string name="more">More Text</string>
+    <string name="save_file">Save File</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="filename">File_Name</string>
+    <string name="saved_file">Saved Files</string>
+    <string name="size">Size</string>
+    <string name="datetime">Date and Time</string>
+    <string name="noFileSaved">There is no file saved till now</string>
+</resources>
